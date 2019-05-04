@@ -17,6 +17,13 @@
 }
 .placeholder {
 }
+.button {
+}
+.primary_button {
+  color:#FFFFFF;
+}
+._图片 {
+}
 ._一级标题 {
   font-family:'Arial Normal', 'Arial';
   font-weight:bold;
@@ -69,13 +76,23 @@
 }
 .line {
 }
+.arrow {
+}
 ._连接线 {
 }
-._图片 {
+.sticky_1 {
+  text-align:left;
+}
+.sticky_3 {
+  text-align:left;
+}
+._图片1 {
   color:#000000;
 }
 .icon {
 }
-._图片1 {
+._图片2 {
   color:#000000;
+}
+.flow_shape {
 }
